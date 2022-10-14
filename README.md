@@ -1,4 +1,4 @@
-# Sorting and Functional Interfaces
+# Sorting and Comparative Ordering 
 
 ## Learning Goals
 
